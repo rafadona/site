@@ -1,5 +1,3 @@
-# site
-permalink: /index.html
 
 
 Provisory Layout
